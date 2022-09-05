@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/bean/Express.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/bean/User.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/dao/LoginDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/dao/LoginDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/dao/UserDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/dao/UserDaoImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/service/LoginService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/service/LoginServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/service/UserService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/service/UserServiceImpl.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/ExpressToUser.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/UpPageServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/admin/DeleteUserServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/admin/ShowServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/admin/UserSearchServlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/express/ToUpAddExpress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/express/ToUpAddExpress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/user/GoMainPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/user/GoMainPage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/user/ToUpAddSelfExpress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/servlet/user/ToUpAddSelfExpress.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/util/ConnectionFactory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ExpressStation/util/test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/studentTest/servlet/Main2Servlet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/db.properties" charset="UTF-8" />
+  </component>
+</project>
